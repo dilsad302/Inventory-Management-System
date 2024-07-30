@@ -1,0 +1,12 @@
+/t/t/tBill no: 136
+date: 14/06/2023					 Time: 11:18:01
+name:  Tanchhopa
+Address: Bhaktapur
+Number: 908776
+Laptop Name: XP2				Company Name: XPS
+Price: Dell					 Quantity: 1
+Total price: 1976
+
+Shipping cost: 250
+Total: 1976
+Grand total: 2226

@@ -1,0 +1,12 @@
+/t/t/tBill no: 180
+date: 14/06/2023					 Time: 11:06:32
+name:  Tanchhopa
+Address: Bhaktapur
+Number: 99085734
+Laptop Name: AW3				Company Name: Alienware
+Price: Alienware					 Quantity: 5
+Total price: 9890
+
+Shipping cost: 250
+Total: 9890
+Grand total: 10140

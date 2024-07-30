@@ -1,0 +1,10 @@
+\t			Bill no: 253
+date: 14/06/2023					 Time: 11:21:06
+name:  Tanchhopa
+Laptop Name: RB1				Company Name: RazerBlade
+Price: Razer					 
+Quantity: 6
+Total price: 12000
+
+vat amount: 1560.0
+Grand Total = 13560.0

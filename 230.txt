@@ -1,0 +1,10 @@
+\t			Bill no: 230
+date: 14/06/2023					 Time: 11:00:12
+name:  Tanchopa
+Laptop Name: MP5				Company Name: MacbookPro16
+Price: Apple					 
+Quantity: 21
+Total price: 73500
+
+vat amount: 9555.0
+Grand Total = 83055.0

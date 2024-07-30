@@ -1,0 +1,12 @@
+/t/t/tBill no: 122
+date: 14/06/2023					 Time: 10:24:49
+name:  Tanchopa
+Address: Bhaktapur
+Number: 9890
+Laptop Name: AW3				Company Name: Alienware
+Price: Alienware					 Quantity: 5
+Total price: 9890
+
+Shipping cost: 250
+Total: 9890
+Grand total: 10140

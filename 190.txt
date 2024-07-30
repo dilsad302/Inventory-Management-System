@@ -1,0 +1,10 @@
+\t			Bill no: 190
+date: 14/06/2023					 Time: 10:18:19
+name:  Tanchopa
+Laptop Name: XP2				Company Name: XPS
+Price: Dell					 
+Quantity: 3
+Total price: 5928
+
+vat amount: 770.64
+Grand Total = 6698.64

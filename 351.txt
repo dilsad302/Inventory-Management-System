@@ -1,0 +1,10 @@
+/t/t/tBill no: 351
+date: 14/06/2023					 Time: 10:12:57
+name:  QWD
+Address: DQW
+Number: 234
+Laptop Name: AW3				Company Name: Alienware
+Price: Alienware					 Quantity: 2
+Total price: 3956
+
+Total: 3956

@@ -1,0 +1,5 @@
+RB1,Razer Blade,Razer,        $2000,132,i7 7th Gen
+XP2,XPS,        Dell,        $1976,102,i5 9th Gen
+AW3,Alienware,Alienware,$1978,3,I5 9th Gen
+S4,Swift 7,        Acer,        $900,0,i5 9th Gen
+MP5,Macbook Pro 16,Apple,        $3500,31,i5 9th Gen
